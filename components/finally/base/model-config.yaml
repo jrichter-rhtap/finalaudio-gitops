@@ -4,4 +4,3 @@ metadata:
   name: finally-model-config
 data:
   MODEL_ENDPOINT: "https://api-maas-apicast-production.apps.tpetkos-aicluster01.devcluster.openshift.com:443"
-  MODEL_NAME: ""
