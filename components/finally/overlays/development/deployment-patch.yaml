@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jrichter/atta:514588b82c3dfad4865a432817334ec2812206af@sha256:6caf6e1eb6686d0ba288780154e1bb621563d2422520b4d2ae9c38a54444fb3d # use pre-built to bootstrap 
+        - image: quay.io/jrichter/atta:6fefcc91d9dd83e7efa607ce92777ea7079c925a@sha256:de5e08fe15d2b6a4eed18b19014eceb4005f22c41efb6792d478cd071de62e87 # use pre-built to bootstrap 
           name: app-inference
