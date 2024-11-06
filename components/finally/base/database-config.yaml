@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: finally-database-config
+data:
+  VECTORDB_HOST: "finally-database"
+  VECTORDB_PORT: ""
